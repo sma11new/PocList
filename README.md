@@ -66,14 +66,14 @@ EXP基础参数只有-u url目标和-T timeout请求超时2个，其余参数依
 
 ![image-20210522173626666](README.assets/image-20210522173626666.png)
 
-# !!! 申明
+# !!! 声明
 
 本项目用于个人POC记录，内含的POC仅面向合法授权的安全建设行为，请确保您在使用该项目POC时已经取得法律许可，**如您在使用本项目的过程中存在任何非法行为，需自行承担相应后果**，本人不承担任何法律及连带责任。
 
-**使用该项目即代表您同意以上申明。**
+**使用该项目即代表您同意以上声明。**
 
-# !!! statement
+# !!! The statement
 
-This item is used for personal POC records, and the POC included is only for legally authorized safety construction activities. Please make sure that you have obtained legal permission when using this item POC. ** If you have any illegal behavior in the process of using this item, you shall bear the corresponding consequences **, and I shall not assume any legal and joint liability.
+This item is used for personal POC records, and the POC included is only for legally authorized safety construction activities. Please make sure that you have obtained legal permission when using this item POC. **If you have any illegal behavior in the process of using this item, you shall bear the corresponding consequences**, and I shall not assume any legal and joint liability.
 
-** By using this item you agree to the above statement. **
+**By using this item, you agree to the above statement.**
